@@ -1,5 +1,5 @@
-# Python Codes Of "Google IT Automation" course on Coursera
-The course [link](https://www.coursera.org/professional-certificates/google-it-automation. "link") .
+# Python Codes Of "Google IT Automation" course
+The course of [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation. "link") is from Coursera.
 
 I have some Python code that I've been practicing from the "Google IT Automation with Python" course on Coursera.
 
