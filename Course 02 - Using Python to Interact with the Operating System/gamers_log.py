@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #   This script requires the 'gamers.log' file. You can download it from this location:
-#         http
+#         https://github.com/MrkTheCoder/Python_Codes_Of_Coursera_Google_IT_Automation_Course/blob/main/Course%2002%20-%20Using%20Python%20to%20Interact%20with%20the%20Operating%20System/gamers.log
 #   If you're unable to download it, here's the complete content of the 'gamers.log':
 # [2023/12/12][09:30 AM]: WIN Fortnite  # 123 (Alpha_Gamer)
 # [2023/12/12][02:45 PM]: LOSE League of Legends  # 45 (BetaPlayer)
